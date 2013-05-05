@@ -35,9 +35,6 @@
                     defaultView: 'agendaWeek',
                     events: eval($('#MainContent_hiddenScheduleJSON').val())
                 })
-                //$('#btnPrev').click(function () {
-                //  $('#calendar').fullCalendar('prev');
-                //});
 
                 //Start with previous button hidden.
                 $('.fc-button-prev').hide();
