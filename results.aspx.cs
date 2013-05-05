@@ -189,6 +189,9 @@ namespace ScheduleGeneratorProject
         {
             DateTime today = DateTime.Today;
             int delta = DayOfWeek.Monday - today.DayOfWeek;
+            if (delta > 0) {
+                delta = delta - 7;
+            }
             DateTime monday = today.AddDays(delta);
             int count = 0;
 
