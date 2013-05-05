@@ -31,3 +31,6 @@ C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleG
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\obj\Debug\ScheduleGeneratorProject.csprojResolveAssemblyReference.cache
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\obj\Debug\ScheduleGeneratorProject.dll
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\obj\Debug\ScheduleGeneratorProject.pdb
+C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\MySql.Data.dll
+C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\MySql.Data.Entity.dll
+C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\MySql.Web.dll
