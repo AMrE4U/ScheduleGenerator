@@ -81,7 +81,7 @@
                 $('#calendar').fullCalendar('render');
             }
             else { //There were zero schedules display message.
-                $('#calendar').text("There were no schedules possible with the selected classes.");
+                $('#calendar').text("There were no schedules possible with the selected classes. Please try again.");
                 $('#MainContent_saveBtn').hide();
             }
         });
