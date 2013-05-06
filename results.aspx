@@ -12,7 +12,10 @@
             // page is now ready, initialize the calendar...
 
             //Get the count of schedules.
-            schedCount = parseInt($('#MainContent_hiddenScheduleCount').val());
+            var schedCount = parseInt($('#MainContent_hiddenScheduleCount').val());
+            var schedString = $('#MainContent_hiddenScheduleJSON').val();
+            var patt = new RegExp(/\d{4}-\d{2}-\d{2}/);
+            var schedDate = new Date(patt.exec(schedString)[0] + " 00:00");
 
             //Dont initialize the calendar if there are no schedules.
             if (schedCount != 0) {
@@ -23,6 +26,9 @@
                         center: 'title',
                         right: ''
                     },
+                    year: schedDate.getFullYear(),
+                    month: schedDate.getMonth(),
+                    date: schedDate.getDate(),
                     titleFormat: '\'Schedules\'',
                     firstDay: 1,
                     height: 1200,
@@ -33,7 +39,7 @@
                     minTime: 6,
                     maxTime: 23,
                     defaultView: 'agendaWeek',
-                    events: eval($('#MainContent_hiddenScheduleJSON').val())
+                    events: eval(schedString)
                 })
 
                 //Start with previous button hidden.
