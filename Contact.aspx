@@ -10,20 +10,13 @@
             <h3>Email:</h3>
         </header>
         <p>
-            <span class="label">CEO:</span>
-            <span><a href="mailto:rjhender@ku.edu">rjhender@ku.edu</a></span>
-        </p>
-        <p>
-            <span class="label">COO:</span>
-            <span><a href="mailto:lonniej@ku.edu">lonniej@ku.edu</a></span>
-        </p>
-        <p>
-            <span class="label">CFO:</span>
-            <span><a href="mailto:gzli@ku.edu">gzli@ku.edu</a></span>
-        </p>
-        <p>
-            <span class="label">CTO:</span>
-            <span><a href="mailto:adonnell@ku.edu">adonnell@ku.edu</a></span>
+            <span class="label">Development Team:</span>
+            <ul>
+                <li><a href="mailto:rjhender@ku.edu">rjhender@ku.edu</a></li>
+                <li><a href="mailto:lonniej@ku.edu">lonniej@ku.edu</a></li>
+                <li><a href="mailto:gzli@ku.edu">gzli@ku.edu</a></li>
+                <li><a href="mailto:adonnell@ku.edu">adonnell@ku.edu</a></li>
+            </ul>
         </p>
     </section>
 
