@@ -17,6 +17,7 @@ namespace ScheduleGeneratorProject
             //    consumerKey: "your Twitter consumer key",
             //    consumerSecret: "your Twitter consumer secret");
 
+            //New facebook app settings.
             OpenAuth.AuthenticationClients.AddFacebook(
                 appId: "567506176604354",
                 appSecret: "59466907af1d357917f4efe5e4798d5f");
