@@ -34,4 +34,3 @@ C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleG
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\MySql.Data.dll
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\MySql.Data.Entity.dll
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\MySql.Web.dll
-C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\mysql.visualstudio.dll
