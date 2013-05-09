@@ -68,20 +68,21 @@
       <HintPath>..\packages\DotNetOpenAuth.OpenId.RelyingParty.4.2.2.13055\lib\net45-full\DotNetOpenAuth.OpenId.RelyingParty.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="MySql.Data, Version=6.6.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+    <Reference Include="mysql.data, Version=6.6.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>lib\MySql.Data.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>lib\mysql.data.dll</HintPath>
     </Reference>
-    <Reference Include="MySql.Data.Entity, Version=6.6.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+    <Reference Include="mysql.data.entity, Version=6.6.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>lib\MySql.Data.Entity.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>lib\mysql.data.entity.dll</HintPath>
     </Reference>
-    <Reference Include="MySql.Web, Version=6.6.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+    <Reference Include="mysql.visualstudio, Version=6.6.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>lib\MySql.Web.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>lib\mysql.visualstudio.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.web, Version=6.6.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\mysql.web.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -233,9 +234,10 @@
     <Content Include="Images\orderedList7.png" />
     <Content Include="Images\orderedList8.png" />
     <Content Include="Images\orderedList9.png" />
-    <Content Include="lib\MySql.Data.dll" />
-    <Content Include="lib\MySql.Data.Entity.dll" />
-    <Content Include="lib\MySql.Web.dll" />
+    <Content Include="lib\mysql.data.dll" />
+    <Content Include="lib\mysql.data.entity.dll" />
+    <Content Include="lib\mysql.visualstudio.dll" />
+    <Content Include="lib\mysql.web.dll" />
     <Content Include="packages.config" />
     <Content Include="ClassDiagram1.cd" />
     <Content Include="results.aspx" />

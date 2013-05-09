@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Welcome" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="ScheduleGeneratorProject._Default" %>
+﻿<%--<%@ Page Title="Welcome" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="ScheduleGeneratorProject._Default" %>--%>
 
 <asp:Content runat="server" ID="HeadContent" ContentPlaceHolderID="HeadContent">    
     
