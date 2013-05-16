@@ -15,7 +15,7 @@
             var schedCount = parseInt($('#MainContent_hiddenScheduleCount').val());
             var schedString = $('#MainContent_hiddenScheduleJSON').val();
             var patt = new RegExp(/\d{4}-\d{2}-\d{2}/);
-            var schedDate = new Date(patt.exec(schedString)[0] + " 00:00");
+            var schedDate = new Date(patt.exec(schedString)[0] + "T00:00");
 
             //Dont initialize the calendar if there are no schedules.
             if (schedCount != 0) {
