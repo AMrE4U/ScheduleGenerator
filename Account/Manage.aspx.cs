@@ -25,6 +25,7 @@ namespace ScheduleGeneratorProject.Account
             if (!IsPostBack)
             {
                 // Determine the sections to render
+                string test = User.Identity.Name;
                 var hasLocalPassword = OpenAuth.HasLocalPassword(User.Identity.Name);
                 setPassword.Visible = !hasLocalPassword;
                 changePassword.Visible = hasLocalPassword;

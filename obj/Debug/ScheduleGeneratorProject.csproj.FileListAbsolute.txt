@@ -28,9 +28,10 @@ C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleG
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\EntityFramework.xml
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\Org.Mentalis.Security.Cryptography.xml
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\Mono.Math.xml
-C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\obj\Debug\ScheduleGeneratorProject.csprojResolveAssemblyReference.cache
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\obj\Debug\ScheduleGeneratorProject.dll
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\obj\Debug\ScheduleGeneratorProject.pdb
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\MySql.Data.dll
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\MySql.Data.Entity.dll
 C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\MySql.Web.dll
+C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\obj\Debug\ScheduleGeneratorProject.csprojResolveAssemblyReference.cache
+C:\Users\RJLaptop\Documents\ScheduleGenerator\ScheduleGeneratorProject\ScheduleGeneratorProject\bin\mysql.visualstudio.dll
